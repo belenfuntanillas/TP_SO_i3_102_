@@ -1,0 +1,92 @@
+Al estar en Windows, use `systeminfo`, porque no dispongo de `/proc/cpuinfo`
+
+Host Name:                 DESKTOP-V12NLDR
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Nahuel
+Registered Organization:
+Product ID:                00331-10000-00001-AA706
+Original Install Date:     14/8/2020, 03:04:48
+System Boot Time:          17/11/2023, 09:01:52
+System Manufacturer:       Gigabyte Technology Co., Ltd.
+System Model:              A320M-S2H V2
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 24 Stepping 1 AuthenticAMD ~3194 Mhz
+BIOS Version:              American Megatrends Inc. F50, 2/12/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             es;Spanish (International Sort)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-03:00) City of Buenos Aires
+Total Physical Memory:     16.333 MB
+Available Physical Memory: 9.250 MB
+Virtual Memory: Max Size:  20.941 MB
+Virtual Memory: Available: 7.986 MB
+Virtual Memory: In Use:    12.955 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-V12NLDR
+Hotfix(s):                 40 Hotfix(s) Installed.
+                           [01]: KB5032005
+                           [02]: KB5028951
+                           [03]: KB4559309
+                           [04]: KB4561600
+                           [05]: KB4566785
+                           [06]: KB4570334
+                           [07]: KB4577266
+                           [08]: KB4577586
+                           [09]: KB4580325
+                           [10]: KB4586864
+                           [11]: KB4589212
+                           [12]: KB4593175
+                           [13]: KB4598481
+                           [14]: KB5000736
+                           [15]: KB5011048
+                           [16]: KB5011056
+                           [17]: KB5012170
+                           [18]: KB5015684
+                           [19]: KB5032189
+                           [20]: KB5006753
+                           [21]: KB5007273
+                           [22]: KB5011352
+                           [23]: KB5011651
+                           [24]: KB5014032
+                           [25]: KB5014035
+                           [26]: KB5014671
+                           [27]: KB5015895
+                           [28]: KB5016705
+                           [29]: KB5018506
+                           [30]: KB5020372
+                           [31]: KB5022924
+                           [32]: KB5023794
+                           [33]: KB5025315
+                           [34]: KB5026879
+                           [35]: KB5028318
+                           [36]: KB5028380
+                           [37]: KB5029709
+                           [38]: KB5031539
+                           [39]: KB5032392
+                           [40]: KB5005699
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.153
+                                 [02]: fe80::803a:130b:b892:2b9b
+                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::6954:d2:9f21:5558
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
