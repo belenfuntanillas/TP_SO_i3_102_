@@ -18,3 +18,22 @@ o: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 30  bytes 3428 (3.4 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
+Lautaro Fonseca - 20:18 21/11/2023
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : fibertel.com.ar
+   Link-local IPv6 Address . . . . . : fe80::803a:130b:b892:2b9b%14
+   IPv4 Address. . . . . . . . . . . : 192.168.0.153
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::6954:d2:9f21:5558%5
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
