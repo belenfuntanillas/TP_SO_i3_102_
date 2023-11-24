@@ -6,6 +6,7 @@ b) -Beta: Si, al estar todo en un mismo repositorio, Beta puede ver todos los ca
 
 c) -Beta: git switch main
           git merge Deneka-branch
+          git push origin main
 
 d) -Gamma:  En el caso de la rama creada con Gamma, no contiene el nuevo archivo "beta.txt" que se creo en la rama de Beta. Beta y Main sí contienen los mismo datos actualizados recién en el ultimo paso al realizar el merge de rama Beta -> Main.
 
