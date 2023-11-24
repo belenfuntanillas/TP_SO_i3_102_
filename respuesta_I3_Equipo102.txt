@@ -20,4 +20,6 @@ f) -Gamma:  git checkout -b Funtanillas origin/Funtanillas (me crea una rama loc
             git push origin Funtanillas (en el caso que tenga el mismo nombre la rama local que la remota se puede utilizar este comando) / git push origin <nombre_rama_local>:<nombre_rama_remota> (en el caso de que no sea el mimo nombre que la rama local y la remota)
             
 
-g)
+g) -Alfa: git add beta.txt
+          git commit -m "comentario" (hago el commit del archivo modificado)
+          git push origin Funtanillas (en el caso que tenga el mismo nombre la rama local que la remota se puede utilizar este comando) / git push origin <nombre_rama_local>:<nombre_rama_remota> (en el caso de que no sea el mimo nombre que la rama local y la remota)
