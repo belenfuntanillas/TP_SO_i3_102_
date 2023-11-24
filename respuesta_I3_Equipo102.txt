@@ -6,10 +6,18 @@ b)
 
 c)
 
-d) -Gamma: 
+d) -Gamma:  En el caso de la rama creada con Gamma, no contiene el nuevo archivo "beta.txt" que se creo en la rama de Beta. Beta y Main sí contienen los mismo datos actualizados recién en el ultimo paso al realizar el merge de rama Beta -> Main.
 
-e) -Gamma:
+e) -Gamma: No tuvimos conflictos al realizar los merge.
+            Los comandos que se utilizamos fueron: git checkout <nombre_rama_destino>
+                                                   git merge <nomre_rama_a_integrar>
+                                                   git push origin <nomre_rama_a_integrar>
 
-f) -Gamma:
+f) -Gamma:  git checkout -b Funtanillas origin/Funtanillas (me crea una rama local llamada Funtanillas con una copia del contenido que se encuentra en la rama remota origin/Funtanillas)
+            notepad beta.txt (modifico el archivo con lo pedido, utilizando el notepad de Windows)
+            git add beta.txt
+            git commit -m "comentario" (hago el commit del archivo modificado)
+            git push origin Funtanillas (en el caso que tenga el mismo nombre la rama local que la remota se puede utilizar este comando) / git push origin <nombre_rama_local>:<nombre_rama_remota> (en el caso de que no sea el mimo nombre que la rama local y la remota)
+            
 
 g)
